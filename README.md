@@ -1,4 +1,5 @@
-## Hi there 👋
+## HELLO, MY NAME IS DANIEL PAMBLANCO👋
+I am Junior Software Developer and Junior SYS Admin.
 
 <!--
 **danibreaddDev/danibreaddDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
